@@ -1,0 +1,36 @@
+# Verificador de Idade
+
+Este é um simples verificador de idade que determina a faixa etária e o gênero de uma pessoa com base no ano de nascimento fornecido.
+
+## Estrutura do Projeto
+
+O projeto é composto pelos seguintes arquivos e diretórios:
+
+- `index.html`: O arquivo HTML principal que contém a estrutura da página.
+- `style.css`: O arquivo CSS que estiliza a página.
+- `script.js`: O arquivo JavaScript que contém a lógica para verificar a idade e o gênero.
+- `Images/`: Diretório que contém as imagens usadas para representar diferentes faixas etárias e gêneros.
+
+## Como Usar
+
+1. Abra o arquivo `index.html` em um navegador web.
+2. Insira o ano de nascimento no campo "Ano de Nascimento".
+3. Selecione o gênero (Masculino ou Feminino).
+4. Clique no botão "Verificar".
+5. O resultado será exibido na seção abaixo do formulário, mostrando a faixa etária e uma imagem correspondente.
+
+## Lógica de Verificação
+
+A lógica de verificação está implementada no arquivo `script.js`. O script calcula a idade com base no ano atual e no ano de nascimento fornecido. Dependendo da idade e do gênero selecionado, uma imagem correspondente é exibida.
+
+## Estilo
+
+O estilo da página é definido no arquivo `style.css`, que inclui regras para a aparência do corpo, cabeçalho, seção, imagens e rodapé.
+
+## Autor
+
+- Iago Cunha
+
+## Licença
+
+Este projeto é de uso livre.
